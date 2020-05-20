@@ -11,7 +11,7 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## WEB
+## Web
 ![devradar](https://github.com/vncscampos/DevRadar/blob/master/.github/devradar.png)
 
 Feito durante a Semana OmniStack 10.0 da Rocketseat.
