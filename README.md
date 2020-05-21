@@ -14,4 +14,8 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 ## Web
 ![devradar](https://github.com/vncscampos/DevRadar/blob/master/.github/devradar.png)
 
+
+## Mobile
+![42c1pw](https://github.com/vncscampos/DevRadar/blob/master/.github/42c1pw.gif)
+
 Feito durante a Semana OmniStack 10.0 da Rocketseat.
