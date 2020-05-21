@@ -11,6 +11,17 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+Extras:
+
+- Main Libs
+  - [Express](https://expressjs.com/pt-br/)
+  - [MongoDB](http://mongodb.com/)
+  - [Expo Location](https://docs.expo.io/versions/latest/sdk/location/)
+  - [React Native Maps](https://github.com/react-native-community/react-native-maps)
+- Estilos
+  - [ESLint](https://eslint.org/)
+  - [Prettier](https://prettier.io/)
+
 ## Web
 ![devradar](https://github.com/vncscampos/DevRadar/blob/master/.github/devradar.png)
 
